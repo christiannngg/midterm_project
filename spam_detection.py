@@ -1,7 +1,7 @@
 import string
 import pandas as pd # for handling csv data
 
-# import nltk
+import nltk
 # import nltk modules for text processing
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
